@@ -13,8 +13,8 @@
 
 """
 This module holds information about current state of client application
-like sender of D-bus method, current subscription-manager command (register,
-attach, ...), dnf command, etc.
+like sender of D-bus method, current subscription-manager command, dnf
+command, etc.
 """
 
 import logging
